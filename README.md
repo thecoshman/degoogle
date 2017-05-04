@@ -3,7 +3,7 @@ Guides on removing your dependency on a single large company (sad face goes here
 
 ## Why
 
-If you have ask, then you probably don't need this.
+If you have to ask, then you probably don't need this.
 
 Google offers a huge amount of serivces, at an amazing price, free! 
 
