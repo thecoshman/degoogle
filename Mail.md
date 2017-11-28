@@ -8,7 +8,10 @@ I've (milleniumbug) decided to use ProtonMail after it was recently opened up to
 
 ## Temporary email accounts
 
-For signing up for services, it's not necessary to own a permanent email account, there are some services which provide a temporary email account
+For signing up for services, it's not necessary to own a permanent email account, there are some services which provide a temporary email account. Note that a service registeration form may reject domains that indicate a temporary email address. It just means you should try a more obscure service which the authors of that service aren't familiar with.
+
+- https://www.guerrillamail.com/ - my (milleniumbug) personal favourite: seems to be a most robust one, with multiple domains, and a randomly generated email address, which reduces the chance of someone reusing your address and issuing a "forgot password" request.
+- https://www.mailinator.com/ - probably the most known temporary email service, it provides the minimum functionality.
 
 ## Hosting your own
 
