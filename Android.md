@@ -20,7 +20,7 @@ This is what CyanogenMod is called now, it's a fork. It's also most likely candi
 
 # Replicant
 
-Open source-only distro of Android, which means it has even less chance of working on your device.
+Open source-only distro of Android, which means it has even less chance of working on your device than LineageOS.
 
 # App repositiories
 
