@@ -27,7 +27,7 @@ Open source-only distro of Android, which means it has even less chance of worki
 Since Google Play relies on Google Play Services a.k.a. all the Google stuff we want to avoid, we won't be able to use it, or at least, not directly through the Google Play apk. You may want to use alternative app repositories:
 
 - F-Droid. Hosts open source applications only, and is transparent about unwanted features in apps. 
-- Aptoide. Likely to have a ton of **unofficially** republished applications from Google Play. Trust them on your own risk.
+- Aptoide. Likely to have a ton of **unofficially** republished applications from Google Play. Trust them at your own risk.
 
 # Sailfish OS
 
