@@ -22,6 +22,27 @@ DuckDuckGo promises to not store your queries and not store any identifying info
 
 ... to be evaluated ...
 
+## Ecosia
+
+... to be evaluated ...
+
 ## YaCy
 
 This is more of a toy currently. It's a decentralized search engine where everyone can contribute to indexing by having their own server, joining the global effort of indexing the web. 
+
+# Image Search
+
+
+# Reverse Image Search
+
+## Yandex Images
+
+... to be evaluated ...
+
+## TinEye
+
+... to be evaluated ...
+
+## SauceNAO
+
+Works pretty well for searching source of art, manga pages or anime screenshots. I have not tested it with other stuff, but should generally work. Does not handle cropped images well.
