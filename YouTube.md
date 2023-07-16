@@ -14,10 +14,14 @@ Distributed torrent-based self-hosted YouTube-like web application.
 
 # Accessing YouTube
 
-## Youtube-Dl
+## yt-dlp
 
 Allows you to download videos from YouTube, and many other sites too. It's a commandline tool, allowing you to automate downloading easily.
 
 ## NewPipe
 
-Android-based lightweight YouTube client.
+Android-based lightweight YouTube client. The versions from F-Droid official repo are often outdated so make sure to either use the NewPipe F-Droid repo or use the in-app update channel.
+
+## FreeTube
+
+An Electron-based client for YouTube for computers. @milleniumbug uses it together with a Privacy Redirect plugin for Firefox which launches YouTube links in FreeTube.
