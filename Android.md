@@ -33,10 +33,6 @@ Since Google Play relies on Google Play Services a.k.a. all the Google stuff we 
 
 Actual standalone not-Android, not-WP, not-iOS operating system. The company behind it also sells phones with it preinstalled.
 
-# Neo900
-
-A crowdfounded project that involves replacing the existing innards of old Nokias N900 and replacing them with more modern, mostly open source components. http://neo900.org/
-
 # Purism Librem 5
 
 A company that already produced privacy-oriented notebooks before is releasing a phone with a non-Android OS. https://puri.sm/shop/librem-5/
