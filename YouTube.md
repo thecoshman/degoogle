@@ -24,4 +24,4 @@ Android-based lightweight YouTube client. The versions from F-Droid official rep
 
 ## FreeTube
 
-An Electron-based client for YouTube for computers. @milleniumbug uses it together with a Privacy Redirect plugin for Firefox which launches YouTube links in FreeTube.
+An Electron-based client for YouTube for computers. [@milleniumbug](https://github.com/milleniumbug) uses it together with a Privacy Redirect plugin for Firefox which launches YouTube links in FreeTube.
